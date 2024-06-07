@@ -28,7 +28,7 @@ def printRightToLeftBetterOne(index, nums, n):
  
 	printLeftToRightBetterOne(index + 2, nums, n)
 	print(nums[index])
-printLeftToRight(0, nums, len(nums))
+	printLeftToRight(0, nums, len(nums))
  
  
  
